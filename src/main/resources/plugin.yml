@@ -1,0 +1,5 @@
+name: ExplodingArrow
+version: '${project.version}'
+main: tr.donsuzturk.explodingarrow.ExplodingArrow
+api-version: 1.16
+authors: [ DonsuzTurk ]
